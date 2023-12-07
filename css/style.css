@@ -20,12 +20,13 @@ body {
 
 }
 
+
 .container {
-    background-image: url("/Images/Background.png");
-    background-size: cover;
+    background-image: url("/Images/background.png");
+    background-size: contain;
     position: absolute;
     background-color: azure;
-    width: 700px;
+    width: 80%;
     height: 500px;
 
 
