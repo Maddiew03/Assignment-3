@@ -22,8 +22,9 @@ body {
 
 
 .container {
-    background-image: url("/Images/background_1.png");
-    background-size: contain;
+    /* background-image: url("/Images/background_1.png");
+    background-size: contain; */
+    background-color: rgba(230, 167, 167, 0.658);
     position: absolute;
     
     width: 80%;
