@@ -22,7 +22,7 @@ body {
 
 
 .container {
-    background-image: url("/Images/background.png");
+    background-image: url("/Images/Background.png");
     background-size: contain;
     position: absolute;
     background-color: azure;
